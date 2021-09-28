@@ -9,7 +9,6 @@ section{
   display: flex;
   width: 1240px;
   max-width: 100%;
-  padding-left: 30px;
   padding-top: 100px;
   margin-left: auto;
   margin-right: auto;
@@ -39,7 +38,6 @@ section{
   height: 382px;
   max-height: 100%;
   margin-left: auto;
-  margin-right: auto;
   background: #000000;
   border-radius: 10px;
   justify-content: center;
@@ -90,9 +88,5 @@ section{
   text-align: right;
   margin-right: 5%;
   color: #FFFFFF;
-}
-
-.social_window__inst{
-
 }
 
